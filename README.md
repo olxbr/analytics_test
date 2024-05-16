@@ -26,8 +26,8 @@ Você definiu que **um anúncio com endereço completo é aquele que possui CEP,
 
 Faça o download dos arquivos em: 
 
-* https://grupozap-code-challenge.s3.amazonaws.com/analytics/leads.csv.gz
-* https://grupozap-code-challenge.s3.amazonaws.com/analytics/listings.csv.gz
+* https:../analytics/leads.csv.gz
+* https:../analytics/listings.csv.gz
 
 A Base de Anúncios (`listings.csv.gz`) é composta por anúncios que estavam ativos nos portais ZAP e Viva Real no dia 31 de maio de 2019. São imóveis verticais (flats, apartamentos, coberturas e kitnets) das seguintes cidades: Santo André, São Bernardo do Campo e São Caetano do Sul - que fazem parte da região do ABC paulista. Nessa base temos tanto imóveis de aluguel como de venda que podem ter preços variados entre R$ 900 e R$ 1,500 para o primeiro grupo e R$ 120,000 e mais de R$ 1 milhão para o segundo grupo.
 
