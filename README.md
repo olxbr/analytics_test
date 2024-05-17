@@ -89,7 +89,7 @@ Algumas perguntas que poderão te ajudar a criar a conclusão:
 
 # **Parte 2 - SQL**
 
-Sua tarefa será utilizar o script fornecido para criar uma base de dados e fazer algumas consultas em cima dos dados. O script pode ser baixado aqui: https://grupozap-code-challenge.s3.amazonaws.com/analytics/ddl.sql. O dialeto deste script é **PostgreSQL**. Uma sugestão para evitar subir um banco local é o de utilizar o [www.db-fiddle.com](https://www.db-fiddle.com/). Configure o input como **PostgreSQL 9.3 ou 9.6**, cole os dados na caixa da esquerda e clique em "Build Schema". Escreva as queries que respondam às perguntas abaixo e salve-as em um único arquivo de texto, separando-as por `;`.
+Sua tarefa será utilizar o script fornecido para criar uma base de dados e fazer algumas consultas em cima dos dados. O script pode ser baixado aqui: https:../analytics/ddl.sql. O dialeto deste script é **PostgreSQL**. Uma sugestão para evitar subir um banco local é o de utilizar o [www.db-fiddle.com](https://www.db-fiddle.com/). Configure o input como **PostgreSQL 9.3 ou 9.6**, cole os dados na caixa da esquerda e clique em "Build Schema". Escreva as queries que respondam às perguntas abaixo e salve-as em um único arquivo de texto, separando-as por `;`.
 
 1. Qual o total de leads que o Viva Real e o ZAP Imóveis trouxeram para essa base? A query deverá retornar: portal e total de leads para cada portal.
 2. Qual a proporção de anúncios que um determinado bairro tem em relação à cidade em que está situado? A query deverá retornar: a cidade, o bairro, o total de anúncios do bairro, o total de anúncios da cidade e a proporção em porcentagem.
